@@ -1,3 +1,7 @@
 /lodash
 /three.js-master
 /DEI_Cube
+/node_modules
+package.json
+pnpm-lock.yaml
+.eslintrc.js
